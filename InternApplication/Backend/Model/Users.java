@@ -1,4 +1,4 @@
-package MRC.InternApp.Entity;
+package MRC.InternApp.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
